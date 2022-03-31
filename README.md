@@ -6,11 +6,11 @@
 <Body>
 
 <P style="background-color:red;color:blue;"> 
-<Pre>
+
 Usd
 I'd
 Dubhhr
-Du </pre>
+Du 
 <b> Ashik </b>
 <a href="https://www.fb.com"> fb </a>you
 
